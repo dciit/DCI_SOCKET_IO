@@ -1,0 +1,16 @@
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\DCI_SOCKET_IO.exe.config
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\DCI_SOCKET_IO.exe
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\DCI_SOCKET_IO.pdb
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\EngineIoClientDotNet.dll
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\Newtonsoft.Json.dll
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\SocketIoClientDotNet.dll
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\WebSocket4Net.dll
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\bin\Debug\Newtonsoft.Json.xml
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.csproj.AssemblyReference.cache
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.Form1.resources
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.Properties.Resources.resources
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.csproj.GenerateResource.cache
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.csproj.CoreCompileInputs.cache
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.csproj.CopyComplete
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.exe
+D:\git\DCI_SOCKET_IO\DCI_SOCKET_IO\obj\Debug\DCI_SOCKET_IO.pdb
